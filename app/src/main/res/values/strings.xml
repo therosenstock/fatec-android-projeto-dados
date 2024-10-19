@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Dados</string>
+    <string name="rbUm">1</string>
+    <string name="rbDois">2</string>
+    <string name="rbTres">3</string>
+    <string name="btnRolar">Rolar</string>
+    <string name="txtResultado"></string>
 </resources>
